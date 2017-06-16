@@ -3,7 +3,7 @@
 $remote = "origin";
 // Aliases for branches and directories
 $aliases = array(
-  "master"  => array( "/var/www/htmk" )
+  "master"  => array( "/var/www/html" )
   //,"staging" => "path/to/staging"
   //,"clients" => array( "client1","client2","client3","client4" )
 );
