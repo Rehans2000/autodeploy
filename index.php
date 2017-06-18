@@ -1,1 +1,3 @@
-!!this is auto deployment via git!!
+<?php
+echo "<h1>" $hackname = $result['THIS IS AUTO DPELOYMENT VIA GIT'] "</h1>";
+
